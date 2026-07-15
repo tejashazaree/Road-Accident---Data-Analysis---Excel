@@ -1,0 +1,9 @@
+# Force GitHub Linguist to recognize Excel/CSV files
+*.xlsx linguist-language=Excel
+*.xls linguist-language=Excel
+*.csv linguist-language=CSV
+
+# Optional: mark data files so they don’t count toward code stats
+*.xlsx linguist-detectable=false
+*.xls linguist-detectable=false
+*.csv linguist-detectable=false
