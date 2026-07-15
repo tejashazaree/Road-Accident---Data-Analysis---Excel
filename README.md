@@ -18,7 +18,7 @@
     * Date and time of the accident
     * Location (latitude and longitude or street names)
     * Type of accident
-    * Number of vehicles involved
+    * Number of vehicles involved 
     * Weather conditions
     * Severity of injuries
 
@@ -178,6 +178,6 @@ Add four worksheets for Analysis
 
 ---
 
-##### If you would like to create the dashboard there is a tutorial available on Youtube. All the credits for the tutorial goes to the original creator @datatutorials1.
+##### If you would like to create the dashboard there is a tutorial available on Youtube.
 
 https://www.youtube.com/watch?v=XeWfLNe3moM
